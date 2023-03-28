@@ -17,22 +17,10 @@ locations:
         description: ""
     maps_link: ""
     title: Where to Find Us
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6601 4015
+      - email: ""
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
