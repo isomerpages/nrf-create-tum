@@ -15,5 +15,5 @@ sections:
       key_highlights:
         - title: ABOUT TUM CREATE
           description: ""
-          url: https://google.com
+          url: https:///about-tum-create/
 ---
