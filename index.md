@@ -8,24 +8,12 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: TUM CREATE
-      subtitle: Hero subtitle
+      subtitle: Germany’s Technische Universität München (TUM) and Singapore’s Nanyang
+        Technological University (NTU), funded by the National Research
+        Foundation of Singapore
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: ABOUT TUM CREATE
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
