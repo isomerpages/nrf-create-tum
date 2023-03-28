@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: TUM CREATE
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: "[prototype] CREATE - Campus for Research Excellence and
   Technological Enterprise"
@@ -18,3 +18,4 @@ sections:
           description: ""
           url: /about-tum-create/
 ---
+
