@@ -16,5 +16,5 @@ sections:
       key_highlights:
         - title: ABOUT TUM CREATE
           description: ""
-          url: ""
+          url: /about-tum-create/
 ---
