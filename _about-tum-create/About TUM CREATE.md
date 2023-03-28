@@ -18,3 +18,5 @@ At TUM CREATE over 120 scientists, researchers and engineers from more than 20 c
 *   Developing models for optimisation towards efficient future transportation systems.
 
 Our research will help to improve Singapore’s roadways, vehicles and public transport network.
+
+### **[Download the TUM CREATE factsheet](/files/tumcreate-factsheet-for-nrf.pdf)**
