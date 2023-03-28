@@ -20,3 +20,6 @@ At TUM CREATE over 120 scientists, researchers and engineers from more than 20 c
 Our research will help to improve Singapore’s roadways, vehicles and public transport network.
 
 ### **[Download the TUM CREATE factsheet](/files/tumcreate-factsheet-for-nrf.pdf)**
+
+**Publications**  
+[http://www.tum-create.edu.sg/](http://www.tum-create.edu.sg/). Click on the individual research thrusts and then click on "publications" to access the publications
