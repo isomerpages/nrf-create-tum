@@ -16,6 +16,5 @@ sections:
       key_highlights:
         - title: ABOUT TUM CREATE
           description: ""
-          url: /about-tum-create/
+          url: /about-create/research-centres/tum-create/
 ---
-
