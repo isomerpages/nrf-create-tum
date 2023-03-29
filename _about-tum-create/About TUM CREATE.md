@@ -3,7 +3,6 @@ title: About TUM CREATE
 permalink: /about-tum-create/
 description: ""
 ---
-
 ![](/images/TUM%20CREATE%20Intro.jpg)
 
 About TUM CREATE
