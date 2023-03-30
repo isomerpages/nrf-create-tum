@@ -1,5 +1,0 @@
-collections:
-  about-tum-create:
-    output: true
-    order:
-      - About TUM CREATE.md
