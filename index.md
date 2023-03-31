@@ -8,4 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
+      title: TUM CREATE
+      subtitle: Hero subtitle
 ---
