@@ -4,8 +4,7 @@ title: TUM CREATE
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: "[prototype] CREATE - Campus for Research Excellence and
-  Technological Enterprise"
+notification: ""
 sections:
   - hero:
       title: TUM CREATE
