@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/tclogo.jpg
       title: TUM CREATE
-      subtitle: Hero subtitle
 ---
