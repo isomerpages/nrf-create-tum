@@ -7,13 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: TUM CREATE
-      subtitle: Germany’s Technische Universität München (TUM) and Singapore’s Nanyang
-        Technological University (NTU), funded by the National Research
-        Foundation of Singapore
       background: /images/hero-banner.png
-      key_highlights:
-        - title: ABOUT TUM CREATE
-          description: ""
-          url: /about-create/research-centres/tum-create/
 ---
